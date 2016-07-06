@@ -43,6 +43,3 @@ struct TBMFont {
         return "TBMFont(type: \(type.rawValue), size: \(size.rawValue)"
     }
 }
-
-// usage:
-// let myFont: UIFont = TBMStyle.defaultFont.font
